@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Home"
-permalink: /home/
+title: "CV"
+permalink: /cv/
 author_profile: true
 ---
 
