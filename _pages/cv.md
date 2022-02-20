@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %} 
-
 Education
 ======
 * PhD in Computer Science, University of Reading, 2018-current
