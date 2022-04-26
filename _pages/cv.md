@@ -23,6 +23,13 @@ Publications
     * [Online Data Filtration in a Climate Model with Deep Learning. Daniel Galea and Bryan Lawrence](../../assets/papers/paper3.pdf)
 	* PhD Thesis - [Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. Daniel Galea](../../assets/papers/thesis.pdf)
     
+Presentations
+======
+* EGU 2020: [Detecting Tropical Cyclones using Deep Learning Techniques](../../assets/presentations/egu2020poster.pdf)
+* Joint DTP Conference 2020: [Detecting Tropical Cyclones using Deep Learning Techniques](../../assets/presentations/egu2020poster.pdf) 
+* Department of Computer Science PhD Conference 2020: [Climate Data Filtration using Deep Learning Methods](../../assets/presentations/egu2020poster.pdf) 
+* NCAS-CMS Weekly Meeting: [Meteorological Data Filtering for Tropical Cyclones using Deep Learning](../../assets/presentations/egu2020poster.pdf)
+    
 Professional Experience
 ======
 * 2022-Present, Computational Scientist, National Centre for Atmospheric Science (NCAS)
