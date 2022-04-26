@@ -13,10 +13,19 @@ Education
 * MSc in Atmosphere, Ocean and Climate, University of Reading, 2017-2018
     * Advisors: Dr. Omduth Coceal and Dr. Humphrey Lean
     * Thesis Title: Investigating urban canopy parametrizations for high-resolution NWP
-* BSc. in Computational Physics, University of Malta, 2014-2017
+* BSc in Computational Physics, University of Malta, 2014-2017
+
+Publications
+======
+* In Preparation (not peer-reviewed, not published; subject to change)
+    * [Detecting the Presence of Tropical Cyclones using Deep Learning Techniques. Daniel Galea, Bryan Lawrence and Julian Kunkel](../../assets/papers/paper1.pdf)
+    * [Investigating Differences between Tropical Cyclone Detection Systems. Daniel Galea and Bryan Lawrence](../../assets/papers/paper2.pdf)
+    * [Online Data Filtration in a Climate Model with Deep Learning. Daniel Galea and Bryan Lawrence](../../assets/papers/paper3.pdf)
+	* PhD Thesis - [Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. Daniel Galea](../../assets/papers/thesis.pdf)
     
 Professional Experience
 ======
+* 2022-Present, Computational Scientist, National Centre for Atmospheric Science (NCAS)
 * 2016-2017, Junior Software Developer, LOQUS Business Intelligence
 
 Professional Skills
