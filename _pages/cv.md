@@ -26,9 +26,9 @@ Publications
 Presentations
 ======
 * EGU 2020: [Detecting Tropical Cyclones using Deep Learning Techniques](../../assets/presentations/egu2020poster.pdf)
-* Joint DTP Conference 2020: [Detecting Tropical Cyclones using Deep Learning Techniques](../../assets/presentations/egu2020poster.pdf) 
-* Department of Computer Science PhD Conference 2020: [Climate Data Filtration using Deep Learning Methods](../../assets/presentations/egu2020poster.pdf) 
-* NCAS-CMS Weekly Meeting: [Meteorological Data Filtering for Tropical Cyclones using Deep Learning](../../assets/presentations/egu2020poster.pdf)
+* Joint DTP Conference 2020: [Detecting Tropical Cyclones using Deep Learning Techniques](../../assets/presentations/dtp2020.pdf) 
+* Department of Computer Science PhD Conference 2020: [Climate Data Filtration using Deep Learning Methods](../../assets/presentations/cs_pres.pdf) 
+* NCAS-CMS Weekly Meeting: [Meteorological Data Filtering for Tropical Cyclones using Deep Learning](../../assets/presentations/CMS_short.pdf)
     
 Professional Experience
 ======
