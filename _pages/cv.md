@@ -18,17 +18,18 @@ Education
 Publications
 ======
 * In Preparation (not peer-reviewed, not published; subject to change)
-    * [Detecting the Presence of Tropical Cyclones using Deep Learning Techniques. Daniel Galea, Bryan Lawrence and Julian Kunkel](../../assets/papers/paper1.pdf)
-    * [Investigating Differences between Tropical Cyclone Detection Systems. Daniel Galea and Bryan Lawrence](../../assets/papers/paper2.pdf)
-    * [Online Data Filtration in a Climate Model with Deep Learning. Daniel Galea and Bryan Lawrence](../../assets/papers/paper3.pdf)
-	* PhD Thesis - [Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. Daniel Galea](../../assets/papers/thesis.pdf)
+    * Detecting the Presence of Tropical Cyclones using Deep Learning Techniques. Daniel Galea, Bryan Lawrence and Julian Kunkel ([manuscript](../../assets/papers/paper1.pdf))
+    * Investigating Differences between Tropical Cyclone Detection Systems. Daniel Galea and Bryan Lawrence ([manuscript](../../assets/papers/paper2.pdf))
+    * Online Data Filtration in a Climate Model with Deep Learning. Daniel Galea and Bryan Lawrence ([manuscript](../../assets/papers/paper3.pdf))
+	* PhD Thesis - Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. Daniel Galea ([thesis](../../assets/papers/thesis.pdf))
     
 Presentations
 ======
-* EGU 2020: [Detecting Tropical Cyclones using Deep Learning Techniques](../../assets/presentations/egu2020poster.pdf)
-* Joint DTP Conference 2020: [Detecting Tropical Cyclones using Deep Learning Techniques](../../assets/presentations/dtp2020.pdf) 
-* Department of Computer Science PhD Conference 2020: [Climate Data Filtration using Deep Learning Methods](../../assets/presentations/cs_pres.pdf) 
-* NCAS-CMS Weekly Meeting: [Meteorological Data Filtering for Tropical Cyclones using Deep Learning](../../assets/presentations/CMS_short.pdf)
+* EGU 2020: Detecting Tropical Cyclones using Deep Learning Techniques ([slides](../../assets/presentations/egu2020poster.pdf))
+* Joint DTP Conference 2020: Detecting Tropical Cyclones using Deep Learning Techniques ([slides](../../assets/presentations/dtp2020.pdf)) 
+* Department of Computer Science PhD Conference 2020: Climate Data Filtration using Deep Learning Methods ([slides](../../assets/presentations/cs_pres.pdf)) 
+* NCAS-CMS Weekly Meeting: Meteorological Data Filtering for Tropical Cyclones using Deep Learning ([slides](../../assets/presentations/CMS_short.pdf))
+* Department of Meteorology, University of Reading Internal Seminar Series: Meteorological Data Filtering for Tropical Cyclones using Deep Learning ([slides](../../assets/presentations/met_seminar.pdf))
     
 Professional Experience
 ======
