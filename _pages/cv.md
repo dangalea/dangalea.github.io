@@ -25,12 +25,16 @@ Publications
     
 Presentations
 ======
-* EGU 2020: Detecting Tropical Cyclones using Deep Learning Techniques ([slides](../../assets/presentations/egu2020poster.pdf))
-* Joint DTP Conference 2020: Detecting Tropical Cyclones using Deep Learning Techniques ([slides](../../assets/presentations/dtp2020.pdf)) 
-* Department of Computer Science PhD Conference 2020: Climate Data Filtration using Deep Learning Methods ([slides](../../assets/presentations/cs_pres.pdf)) 
-* NCAS-CMS Weekly Meeting: Meteorological Data Filtering for Tropical Cyclones using Deep Learning ([slides](../../assets/presentations/CMS_short.pdf))
-* Department of Meteorology, University of Reading Internal Seminar Series: Meteorological Data Filtering for Tropical Cyclones using Deep Learning ([slides](../../assets/presentations/met_seminar.pdf))
+* EGU 2020, May 2020: Detecting Tropical Cyclones using Deep Learning Techniques ([slides](../../assets/presentations/egu2020poster.pdf))
+* Joint DTP Conference 2020, September 2020: Detecting Tropical Cyclones using Deep Learning Techniques ([slides](../../assets/presentations/dtp2020.pdf)) 
+* Department of Computer Science PhD Conference 2020, October 2020: Climate Data Filtration using Deep Learning Methods ([slides](../../assets/presentations/cs_pres.pdf)) 
+* NCAS-CMS Weekly Meeting, April 2022: Meteorological Data Filtering for Tropical Cyclones using Deep Learning ([slides](../../assets/presentations/CMS_short.pdf))
+* Department of Meteorology, University of Reading Internal Seminar Series, May 2022: Meteorological Data Filtering for Tropical Cyclones using Deep Learning ([slides](../../assets/presentations/met_seminar.pdf)) ([recording](https://drive.google.com/file/d/1mGVIKNqGe5N-2Fm-CM3HXdfZHVtxb5Xx/view?usp=sharing))
     
+Service
+======
+* Reviewer: Artificial Intelligence for the Earth Systems (2022-Present)
+   
 Professional Experience
 ======
 * 2022-Present, Computational Scientist, National Centre for Atmospheric Science (NCAS)
