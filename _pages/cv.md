@@ -17,12 +17,14 @@ Education
 
 Publications
 ======
-* In Preparation (not peer-reviewed, not published; subject to change)
-    * Detecting the Presence of Tropical Cyclones using Deep Learning Techniques. Daniel Galea, Bryan Lawrence and Julian Kunkel ([manuscript](../../assets/papers/paper1.pdf))
-    * Investigating Differences between Tropical Cyclone Detection Systems. Daniel Galea and Bryan Lawrence ([manuscript](../../assets/papers/paper2.pdf))
-    * Online Data Filtration in a Climate Model with Deep Learning. Daniel Galea and Bryan Lawrence ([manuscript](../../assets/papers/paper3.pdf))
-	* PhD Thesis - Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. Daniel Galea ([thesis](../../assets/papers/thesis.pdf))
+* Submitted
+	* TCDetect: A new method of Detecting the Presence of Tropical Cyclones using Deep Learning. Daniel Galea, Julian Kunkel and Bryan N. Lawrence, *Artificial Intelligence for the Earth Systems*, June 2022 ([manuscript](../../assets/papers/paper1.pdf))
+    * Investigating Differences between Tropical Cyclone Detection Systems. Daniel Galea, Kevin Hodges and Bryan N. Lawrence, *Artificial Intelligence for the Earth Systems*, June 2022 ([manuscript](../../assets/papers/paper2.pdf))
+    * PhD Thesis - Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. Daniel Galea ([thesis](../../assets/papers/thesis.pdf))
     
+* In Preparation (not peer-reviewed, not published; subject to change)
+    * Online Data Filtration in a Climate Model with Deep Learning. Daniel Galea and Bryan Lawrence ([manuscript](../../assets/papers/paper3.pdf))
+	
 Presentations
 ======
 * EGU 2020, May 2020: Detecting Tropical Cyclones using Deep Learning Techniques ([slides](../../assets/presentations/egu2020poster.pdf))
