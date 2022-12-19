@@ -44,6 +44,6 @@ Professional Experience
 
 Professional Skills
 ===================
-* Programming Languages: Proficient: Python; Experience: Java, C, C++, MATLAB, Fortran, SQL
+* Programming Languages: Proficient: Python; Experience: Java, C, C++, MATLAB, Fortran, SQL, Mathematica
 * Software Packages: Tensorflow, Keras, scikit-learn, pandas, matplotlib, Jupyter
 * Code Management: Git, Github

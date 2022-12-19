@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Daniel Galea"
   avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Researcher applying Deep Learning Techniques to Weather and Climate"
-  location         : "Reading, UK"
+  bio              : "Postdoctoral Researcher applying Deep Learning Techniques to Weather and Climate"
+  location         : "Livermore, CA, USA"
   email            : "galea.daniel18@gmail.com"
   links:
     - label: "Email"
