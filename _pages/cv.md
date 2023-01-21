@@ -20,10 +20,12 @@ Publications
 * Submitted
 	* TCDetect: A new method of Detecting the Presence of Tropical Cyclones using Deep Learning. Daniel Galea, Julian Kunkel and Bryan N. Lawrence, *Artificial Intelligence for the Earth Systems*, June 2022 ([manuscript](../../assets/papers/paper1.pdf))
     * Investigating Differences between Tropical Cyclone Detection Systems. Daniel Galea, Kevin Hodges and Bryan N. Lawrence, *Artificial Intelligence for the Earth Systems*, June 2022 ([manuscript](../../assets/papers/paper2.pdf))
-    * PhD Thesis - Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. Daniel Galea ([thesis](../../assets/papers/thesis.pdf))
     
 * In Preparation (not peer-reviewed, not published; subject to change)
     * Online Data Filtration in a Climate Model with Deep Learning. Daniel Galea and Bryan Lawrence ([manuscript](../../assets/papers/paper3.pdf))
+
+* Published
+    * PhD Thesis - Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. Daniel Galea ([thesis](https://doi.org/10.48683/1926.00108656))
 	
 Presentations
 ======
