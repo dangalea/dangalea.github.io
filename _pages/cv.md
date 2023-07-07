@@ -7,8 +7,8 @@ author_profile: true
 
 Education
 ======
-* PhD in Computer Science, University of Reading, 2018-current
-    * Supervisor: Prof. Bryan Lawrence and Dr. Julian Kunkel
+* PhD in Computer Science, University of Reading, 2018-2022
+    * Supervisors: Prof. Bryan Lawrence and Dr. Julian Kunkel
     * Dissertation Title: Meteorological Data Filtering for Tropical Cyclones using Deep Learning Techniques
 * MSc in Atmosphere, Ocean and Climate, University of Reading, 2017-2018
     * Advisors: Dr. Omduth Coceal and Dr. Humphrey Lean
@@ -17,15 +17,17 @@ Education
 
 Publications
 ======
-* Submitted
-	* TCDetect: A new method of Detecting the Presence of Tropical Cyclones using Deep Learning. Daniel Galea, Julian Kunkel and Bryan N. Lawrence, *Artificial Intelligence for the Earth Systems*, June 2022 ([manuscript](../../assets/papers/paper1.pdf))
-    * Investigating Differences between Tropical Cyclone Detection Systems. Daniel Galea, Kevin Hodges and Bryan N. Lawrence, *Artificial Intelligence for the Earth Systems*, June 2022 ([manuscript](../../assets/papers/paper2.pdf))
-    
-* In Preparation (not peer-reviewed, not published; subject to change)
-    * Online Data Filtration in a Climate Model with Deep Learning. Daniel Galea and Bryan Lawrence ([manuscript](../../assets/papers/paper3.pdf))
-
 * Published
-    * PhD Thesis - Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. Daniel Galea ([thesis](https://doi.org/10.48683/1926.00108656))
+	* TCDetect: A new method of Detecting the Presence of Tropical Cyclones using Deep Learning. ***Daniel Galea***, Julian Kunkel and Bryan N. Lawrence, *Artificial Intelligence for the Earth Systems*, July 2023 ([paper](https://journals.ametsoc.org/view/journals/aies/2/3/AIES-D-22-0045.1.xml))
+    * PhD Thesis - Meteorological Data Filtering for Tropical Cyclones using  Deep Learning Techniques. ***Daniel Galea*** ([thesis](https://doi.org/10.48683/1926.00108656))
+
+* Submitted
+    * Investigating Differences between Tropical Cyclone Detection Systems. ***Daniel Galea***, Kevin Hodges and Bryan N. Lawrence, *Artificial Intelligence for the Earth Systems*, June 2022 ([manuscript](../../assets/papers/paper2.pdf))
+    * Deep Learning Image Segmentation for Atmospheric Rivers. ***Daniel Galea***, Hsi-Yen Ma, Wen-Ying Wu, Daigo Kobayashi.  *Artificial Intelligence for the Earth Systems*, June 2023
+    * Assessment of Storm-Associated Precipitation and its Extremes using Observations and Short-Range Climate Model Hindcasts. Wen-Ying Wu, Hsi-Yen Ma, David Conway Lafferty, Zhe Feng, Paul Ullrich, Qi Tang, Jean-Christophe Golaz, ***Daniel Galea***, Hsiang-He Lee. *JGR Atmospheres*, July 2023
+    
+[comment]: <> * In Preparation (not peer-reviewed, not published; subject to change)
+[comment]: <> * Online Data Filtration in a Climate Model with Deep Learning. ***Daniel Galea*** and Bryan Lawrence ([manuscript](../../assets/papers/paper3.pdf))
 	
 Presentations
 ======
@@ -37,7 +39,9 @@ Presentations
     
 Service
 ======
-* Reviewer: Artificial Intelligence for the Earth Systems (2022-Present)
+* Reviewer: 
+    * Artificial Intelligence for the Earth Systems (2022-Present)
+    * Machine Learning (2023-Present)
    
 Professional Experience
 ======
